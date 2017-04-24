@@ -18,13 +18,11 @@ namespace ServiceBus.WorkerClient
     public class WorkerRole : RoleEntryPoint
     {
         // The name of your queue
-        const string QueueName = "prototype-queue";
+        private string _QueueName;
         private string _EndpointUri;
         private string _PrimaryKey;
         private string _Database;
-        
-        // QueueClient is thread-safe. Recommended that you cache 
-        // rather than recreating it on every request
+
         QueueClient Client;
         ManualResetEvent CompletedEvent = new ManualResetEvent(false);
 
@@ -33,6 +31,7 @@ namespace ServiceBus.WorkerClient
             _EndpointUri = CloudConfigurationManager.GetSetting("EndpointUri").ToString();
             _PrimaryKey = CloudConfigurationManager.GetSetting("PrimaryKey").ToString();
             _Database = CloudConfigurationManager.GetSetting("Database").ToString();
+            _QueueName = CloudConfigurationManager.GetSetting("QueueName").ToString();
 
             Trace.WriteLine("_EndpointUri:  " + _EndpointUri);
             Trace.WriteLine("_PrimaryKey:  " + _PrimaryKey);
@@ -83,13 +82,13 @@ namespace ServiceBus.WorkerClient
             string connectionString = CloudConfigurationManager.GetSetting("Microsoft.ServiceBus.ConnectionString");
             var namespaceManager = NamespaceManager.CreateFromConnectionString(connectionString);
             Trace.WriteLine("namespaceManager" + namespaceManager);
-            if (!namespaceManager.QueueExists(QueueName))
+            if (!namespaceManager.QueueExists(_QueueName))
             {
-                namespaceManager.CreateQueue(QueueName);
+                namespaceManager.CreateQueue(_QueueName);
             }
 
             // Initialize the connection to Service Bus Queue
-            Client = QueueClient.CreateFromConnectionString(connectionString, QueueName);
+            Client = QueueClient.CreateFromConnectionString(connectionString, _QueueName);
             return base.OnStart();
         }
 

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<serviceModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="CentralisedListClient" generation="1" functional="0" release="0" Id="1c977fe5-829a-439b-a654-f2a5c0a20e60" dslVersion="1.2.0.0" xmlns="http://schemas.microsoft.com/dsltools/RDSM">
+<serviceModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="CentralisedListClient" generation="1" functional="0" release="0" Id="2fbbbdad-2a0a-4463-ba2d-b315f05f88ff" dslVersion="1.2.0.0" xmlns="http://schemas.microsoft.com/dsltools/RDSM">
   <groups>
     <group name="CentralisedListClientGroup" generation="1" functional="0" release="0">
       <componentports>
@@ -121,9 +121,9 @@
     </group>
   </groups>
   <implements>
-    <implementation Id="5bf3892c-2c06-46f8-a584-d63e9362a441" ref="Microsoft.RedDog.Contract\ServiceContract\CentralisedListClientContract@ServiceDefinition">
+    <implementation Id="7ba36c31-3964-449b-963a-21d07693b0d4" ref="Microsoft.RedDog.Contract\ServiceContract\CentralisedListClientContract@ServiceDefinition">
       <interfacereferences>
-        <interfaceReference Id="0a8ac423-0f7d-4afd-8f88-f9aaf4796af7" ref="Microsoft.RedDog.Contract\Interface\CentralisedListClientRole:Endpoint1@ServiceDefinition">
+        <interfaceReference Id="daf669d0-e379-491c-9c91-3f3ff2d6119e" ref="Microsoft.RedDog.Contract\Interface\CentralisedListClientRole:Endpoint1@ServiceDefinition">
           <inPort>
             <inPortMoniker name="/CentralisedListClient/CentralisedListClientGroup/CentralisedListClientRole:Endpoint1" />
           </inPort>

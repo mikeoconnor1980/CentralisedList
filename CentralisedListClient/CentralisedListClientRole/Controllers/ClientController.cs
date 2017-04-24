@@ -118,7 +118,9 @@ namespace CentralisedListClientRole.Controllers
             QueueClientHelper queueClientHelper = new QueueClientHelper();
 
             string message = JsonConvert.SerializeObject(client);
-            queueClientHelper.SendMessage(client);
+            string messageBasic = "{ \"id\" : \"" + client.id + "\", \"name\" : \"" + client.name + "\"}";
+
+            queueClientHelper.SendMessage(messageBasic);
 
             cd.ResetDirtyFlag(id);
 

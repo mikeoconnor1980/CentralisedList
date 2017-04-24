@@ -1,0 +1,12 @@
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\ServiceBusLib\bin\Debug\ServiceBusLib.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\ServiceBusLib\bin\Debug\ServiceBusLib.pdb
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\ServiceBusLib\obj\Debug\ServiceBusLib.csprojResolveAssemblyReference.cache
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\ServiceBusLib\obj\Debug\ServiceBusLib.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\ServiceBusLib\obj\Debug\ServiceBusLib.pdb
+C:\Projects\CentralisedList\CentralisedListClient\ServiceBusLib\obj\Debug\ServiceBusLib.csprojResolveAssemblyReference.cache
+C:\Projects\CentralisedList\CentralisedListClient\ServiceBusLib\obj\Debug\ServiceBusLib.dll
+C:\Projects\CentralisedList\CentralisedListClient\ServiceBusLib\obj\Debug\ServiceBusLib.pdb
+C:\Projects\CentralisedList\CentralisedListClient\ServiceBusLib\bin\Debug\ServiceBusLib.dll
+C:\Projects\CentralisedList\CentralisedListClient\ServiceBusLib\bin\Debug\ServiceBusLib.pdb
+C:\Projects\CentralisedList\CentralisedListClient\ServiceBusLib\bin\Debug\Microsoft.ServiceBus.dll
+C:\Projects\CentralisedList\CentralisedListClient\ServiceBusLib\bin\Debug\Microsoft.ServiceBus.xml

@@ -1,0 +1,201 @@
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\roslyn\csc.exe
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\roslyn\vbc.exe
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\roslyn\VBCSCompiler.exe
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\CentralisedListClientRole.dll.config
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\CentralisedListClientRole.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\CentralisedListClientRole.pdb
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\Antlr3.Runtime.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\CentralisedListObjects.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\Microsoft.Data.Edm.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\Microsoft.Data.OData.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\Microsoft.Data.Services.Client.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\Newtonsoft.Json.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\ServiceBusLib.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\System.Spatial.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\System.Web.Helpers.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\System.Web.Mvc.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\System.Web.Optimization.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\System.Web.Razor.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\System.Web.WebPages.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\System.Web.WebPages.Razor.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\WebGrease.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\MonAgentListener.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\CentralisedListObjects.pdb
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\ServiceBusLib.pdb
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\Microsoft.Data.Edm.xml
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\Microsoft.Data.OData.xml
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\Microsoft.Data.Services.Client.xml
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\Newtonsoft.Json.xml
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\System.Spatial.xml
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\System.Web.Helpers.xml
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\System.Web.Mvc.xml
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\System.Web.Optimization.xml
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\System.Web.Razor.xml
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\System.Web.WebPages.xml
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\System.Web.WebPages.Razor.xml
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\Antlr3.Runtime.pdb
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\de\System.Spatial.resources.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\es\System.Spatial.resources.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\fr\System.Spatial.resources.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\it\System.Spatial.resources.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\ja\System.Spatial.resources.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\ko\System.Spatial.resources.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\ru\System.Spatial.resources.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\obj\Debug\CentralisedListClientRole.csprojResolveAssemblyReference.cache
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\obj\Debug\CentralisedListClientRole.dll
+C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\obj\Debug\CentralisedListClientRole.pdb
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\roslyn\csc.exe
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\roslyn\vbc.exe
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\roslyn\VBCSCompiler.exe
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\CentralisedListClientRole.dll.config
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\CentralisedListClientRole.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\CentralisedListClientRole.pdb
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\Antlr3.Runtime.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\CentralisedListData.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\CentralisedListObjects.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\Microsoft.Data.Edm.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\Microsoft.Data.OData.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\Microsoft.Data.Services.Client.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\Newtonsoft.Json.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\ServiceBusLib.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\System.Spatial.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\System.Web.Helpers.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\System.Web.Mvc.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\System.Web.Optimization.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\System.Web.Razor.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\System.Web.WebPages.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\System.Web.WebPages.Razor.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\WebGrease.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\Microsoft.ServiceBus.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\MonAgentListener.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\CentralisedListData.pdb
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\CentralisedListObjects.pdb
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\ServiceBusLib.pdb
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\Microsoft.Data.Edm.xml
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\Microsoft.Data.OData.xml
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\Microsoft.Data.Services.Client.xml
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\Newtonsoft.Json.xml
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\System.Spatial.xml
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\System.Web.Helpers.xml
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\System.Web.Mvc.xml
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\System.Web.Optimization.xml
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\System.Web.Razor.xml
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\System.Web.WebPages.xml
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\System.Web.WebPages.Razor.xml
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\Antlr3.Runtime.pdb
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\de\Microsoft.Data.OData.resources.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\es\Microsoft.Data.OData.resources.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\it\Microsoft.Data.OData.resources.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\de\System.Spatial.resources.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\es\System.Spatial.resources.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\fr\System.Spatial.resources.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\it\System.Spatial.resources.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\ja\System.Spatial.resources.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\ko\System.Spatial.resources.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\ru\System.Spatial.resources.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\zh-Hans\System.Spatial.resources.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\zh-Hant\System.Spatial.resources.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\obj\Debug\CentralisedListClientRole.csprojResolveAssemblyReference.cache
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\obj\Debug\CentralisedListClientRole.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\obj\Debug\CentralisedListClientRole.pdb
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\ODD.Data.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\ODD.Objects.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\Microsoft.Azure.Documents.Client.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\ODD.Data.pdb
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\ODD.Objects.pdb
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\Microsoft.Azure.Documents.Client.xml
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\DocumentDB.Spatial.Sql.dll

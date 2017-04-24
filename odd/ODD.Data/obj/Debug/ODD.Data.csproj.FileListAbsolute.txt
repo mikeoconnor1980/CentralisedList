@@ -1,0 +1,14 @@
+C:\Projects\CentralisedList\odd\ODD.Data\bin\Debug\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Projects\CentralisedList\odd\ODD.Data\bin\Debug\DocumentDB.Spatial.Sql.dll
+C:\Projects\CentralisedList\odd\ODD.Data\bin\Debug\ODD.Data.dll.config
+C:\Projects\CentralisedList\odd\ODD.Data\bin\Debug\ODD.Data.dll
+C:\Projects\CentralisedList\odd\ODD.Data\bin\Debug\ODD.Data.pdb
+C:\Projects\CentralisedList\odd\ODD.Data\bin\Debug\Microsoft.Azure.Documents.Client.dll
+C:\Projects\CentralisedList\odd\ODD.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\CentralisedList\odd\ODD.Data\bin\Debug\ODD.Objects.dll
+C:\Projects\CentralisedList\odd\ODD.Data\bin\Debug\ODD.Objects.pdb
+C:\Projects\CentralisedList\odd\ODD.Data\bin\Debug\Microsoft.Azure.Documents.Client.xml
+C:\Projects\CentralisedList\odd\ODD.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\CentralisedList\odd\ODD.Data\obj\Debug\ODD.Data.csprojResolveAssemblyReference.cache
+C:\Projects\CentralisedList\odd\ODD.Data\obj\Debug\ODD.Data.dll
+C:\Projects\CentralisedList\odd\ODD.Data\obj\Debug\ODD.Data.pdb

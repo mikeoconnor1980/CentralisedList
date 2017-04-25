@@ -1,0 +1,4 @@
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListObjects\bin\Release\CentralisedListObjects.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListObjects\bin\Release\CentralisedListObjects.pdb
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListObjects\obj\Release\CentralisedListObjects.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListObjects\obj\Release\CentralisedListObjects.pdb

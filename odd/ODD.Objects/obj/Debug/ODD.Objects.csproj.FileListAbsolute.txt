@@ -5,3 +5,9 @@ C:\Projects\odd\ODD.Objects\bin\Debug\Newtonsoft.Json.xml
 C:\Projects\odd\ODD.Objects\obj\Debug\ODD.Objects.csprojResolveAssemblyReference.cache
 C:\Projects\odd\ODD.Objects\obj\Debug\ODD.Objects.dll
 C:\Projects\odd\ODD.Objects\obj\Debug\ODD.Objects.pdb
+C:\Projects\CentralisedList\odd\ODD.Objects\bin\Debug\ODD.Objects.dll
+C:\Projects\CentralisedList\odd\ODD.Objects\bin\Debug\ODD.Objects.pdb
+C:\Projects\CentralisedList\odd\ODD.Objects\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\CentralisedList\odd\ODD.Objects\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\CentralisedList\odd\ODD.Objects\obj\Debug\ODD.Objects.dll
+C:\Projects\CentralisedList\odd\ODD.Objects\obj\Debug\ODD.Objects.pdb

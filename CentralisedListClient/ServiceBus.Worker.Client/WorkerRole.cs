@@ -22,25 +22,21 @@ namespace ServiceBus.WorkerClient
         private string _EndpointUri;
         private string _PrimaryKey;
         private string _Database;
+        QueueClient _QueueClient;
+        ClientData _data;
 
-        QueueClient Client;
         ManualResetEvent CompletedEvent = new ManualResetEvent(false);
 
         public override void Run()
         {
-            _EndpointUri = CloudConfigurationManager.GetSetting("EndpointUri").ToString();
-            _PrimaryKey = CloudConfigurationManager.GetSetting("PrimaryKey").ToString();
-            _Database = CloudConfigurationManager.GetSetting("Database").ToString();
-            _QueueName = CloudConfigurationManager.GetSetting("QueueName").ToString();
-
             Trace.WriteLine("_EndpointUri:  " + _EndpointUri);
             Trace.WriteLine("_PrimaryKey:  " + _PrimaryKey);
             Trace.WriteLine("_Database:  " + _Database);
 
             Trace.WriteLine("Starting processing of messages");
-            
+
             // Initiates the message pump and callback is invoked for each message that is received, calling close on the client will stop the pump.
-            Client.OnMessage(async (receivedMessage) =>
+            _QueueClient.OnMessage(async (receivedMessage) =>
                 {
                     try
                     {
@@ -55,11 +51,8 @@ namespace ServiceBus.WorkerClient
 
                         Trace.WriteLine(client.id+ ": " + client.name, "ProcessingMessage");
                         
-                        DataCommand _dc = new DataCommand(_EndpointUri, _PrimaryKey, _Database, "OddCollection_dev");
-                        ClientData data = new ClientData(_dc, "clients");
-
                         //UpsertDocumentAsync - does not work!?
-                        await data.ReplaceById(client.id, client, true);
+                        await _data.ReplaceById(client.id, client, true);
 
                         receivedMessage.Complete();
                         Trace.WriteLine("Message Processed");
@@ -78,24 +71,31 @@ namespace ServiceBus.WorkerClient
             // Set the maximum number of concurrent connections 
             ServicePointManager.DefaultConnectionLimit = 12;
 
+            _EndpointUri = CloudConfigurationManager.GetSetting("EndpointUri").ToString();
+            _PrimaryKey = CloudConfigurationManager.GetSetting("PrimaryKey").ToString();
+            _Database = CloudConfigurationManager.GetSetting("Database").ToString();
+            _QueueName = CloudConfigurationManager.GetSetting("QueueName").ToString();
+
             // Create the queue if it does not exist already
             string connectionString = CloudConfigurationManager.GetSetting("Microsoft.ServiceBus.ConnectionString");
             var namespaceManager = NamespaceManager.CreateFromConnectionString(connectionString);
-            Trace.WriteLine("namespaceManager" + namespaceManager);
             if (!namespaceManager.QueueExists(_QueueName))
             {
                 namespaceManager.CreateQueue(_QueueName);
             }
 
             // Initialize the connection to Service Bus Queue
-            Client = QueueClient.CreateFromConnectionString(connectionString, _QueueName);
+            _QueueClient = QueueClient.CreateFromConnectionString(connectionString, _QueueName);
+
+            DataCommand dc = new DataCommand(_EndpointUri, _PrimaryKey, _Database);
+            ClientData _data = new ClientData(dc, "clients");
             return base.OnStart();
         }
 
         public override void OnStop()
         {
             // Close the connection to Service Bus Queue
-            Client.Close();
+            _QueueClient.Close();
             CompletedEvent.Set();
             base.OnStop();
         }

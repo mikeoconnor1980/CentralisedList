@@ -1,0 +1,22 @@
+{
+  "bindings": [
+    {
+      "name": "myQueueItem",
+      "type": "serviceBusTrigger",
+      "direction": "in",
+      "queueName": "prototype-queue",
+      "connection": "ServiceBusCentralisedListClient",
+      "accessRights": "Listen"
+    },
+    {
+      "type": "documentDB",
+      "name": "outputDocument",
+      "databaseName": "odd_main_dev",
+      "collectionName": "clients",
+      "createIfNotExists": false,
+      "connection": "odd-dev_DOCUMENTDB",
+      "direction": "out"
+    }
+  ],
+  "disabled": false
+}

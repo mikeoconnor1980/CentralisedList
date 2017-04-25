@@ -1,6 +1,9 @@
+C:\Projects\CentralisedList\CentralisedListClient\ServiceBus.Worker.Client\bin\Debug\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Projects\CentralisedList\CentralisedListClient\ServiceBus.Worker.Client\bin\Debug\DocumentDB.Spatial.Sql.dll
 C:\Projects\CentralisedList\CentralisedListClient\ServiceBus.Worker.Client\bin\Debug\ServiceBus.Worker.Client.dll.config
 C:\Projects\CentralisedList\CentralisedListClient\ServiceBus.Worker.Client\bin\Debug\ServiceBus.Worker.Client.dll
 C:\Projects\CentralisedList\CentralisedListClient\ServiceBus.Worker.Client\bin\Debug\ServiceBus.Worker.Client.pdb
+C:\Projects\CentralisedList\CentralisedListClient\ServiceBus.Worker.Client\bin\Debug\CentralisedListObjects.dll
 C:\Projects\CentralisedList\CentralisedListClient\ServiceBus.Worker.Client\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
 C:\Projects\CentralisedList\CentralisedListClient\ServiceBus.Worker.Client\bin\Debug\Microsoft.Data.Edm.dll
 C:\Projects\CentralisedList\CentralisedListClient\ServiceBus.Worker.Client\bin\Debug\Microsoft.Data.OData.dll
@@ -17,6 +20,7 @@ C:\Projects\CentralisedList\CentralisedListClient\ServiceBus.Worker.Client\bin\D
 C:\Projects\CentralisedList\CentralisedListClient\ServiceBus.Worker.Client\bin\Debug\MonAgentListener.dll
 C:\Projects\CentralisedList\CentralisedListClient\ServiceBus.Worker.Client\bin\Debug\ODD.Data.pdb
 C:\Projects\CentralisedList\CentralisedListClient\ServiceBus.Worker.Client\bin\Debug\ODD.Objects.pdb
+C:\Projects\CentralisedList\CentralisedListClient\ServiceBus.Worker.Client\bin\Debug\CentralisedListObjects.pdb
 C:\Projects\CentralisedList\CentralisedListClient\ServiceBus.Worker.Client\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
 C:\Projects\CentralisedList\CentralisedListClient\ServiceBus.Worker.Client\bin\Debug\Microsoft.Data.Edm.xml
 C:\Projects\CentralisedList\CentralisedListClient\ServiceBus.Worker.Client\bin\Debug\Microsoft.Data.OData.xml
@@ -67,7 +71,3 @@ C:\Projects\CentralisedList\CentralisedListClient\ServiceBus.Worker.Client\bin\D
 C:\Projects\CentralisedList\CentralisedListClient\ServiceBus.Worker.Client\obj\Debug\ServiceBus.WorkerClient.csprojResolveAssemblyReference.cache
 C:\Projects\CentralisedList\CentralisedListClient\ServiceBus.Worker.Client\obj\Debug\ServiceBus.Worker.Client.dll
 C:\Projects\CentralisedList\CentralisedListClient\ServiceBus.Worker.Client\obj\Debug\ServiceBus.Worker.Client.pdb
-C:\Projects\CentralisedList\CentralisedListClient\ServiceBus.Worker.Client\bin\Debug\CentralisedListObjects.dll
-C:\Projects\CentralisedList\CentralisedListClient\ServiceBus.Worker.Client\bin\Debug\CentralisedListObjects.pdb
-C:\Projects\CentralisedList\CentralisedListClient\ServiceBus.Worker.Client\bin\Debug\Microsoft.Azure.Documents.ServiceInterop.dll
-C:\Projects\CentralisedList\CentralisedListClient\ServiceBus.Worker.Client\bin\Debug\DocumentDB.Spatial.Sql.dll

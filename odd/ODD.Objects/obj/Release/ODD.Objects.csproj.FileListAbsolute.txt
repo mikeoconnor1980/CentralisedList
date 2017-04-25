@@ -1,0 +1,6 @@
+C:\Projects\CentralisedList\odd\ODD.Objects\bin\Release\ODD.Objects.dll
+C:\Projects\CentralisedList\odd\ODD.Objects\bin\Release\ODD.Objects.pdb
+C:\Projects\CentralisedList\odd\ODD.Objects\bin\Release\Newtonsoft.Json.dll
+C:\Projects\CentralisedList\odd\ODD.Objects\bin\Release\Newtonsoft.Json.xml
+C:\Projects\CentralisedList\odd\ODD.Objects\obj\Release\ODD.Objects.dll
+C:\Projects\CentralisedList\odd\ODD.Objects\obj\Release\ODD.Objects.pdb

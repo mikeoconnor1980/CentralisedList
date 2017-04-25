@@ -1,0 +1,19 @@
+{
+  "bindings": [
+    {
+      "name": "myQueueItem",
+      "type": "queueTrigger",
+      "direction": "in",
+      "queueName": "functions-bindings",
+      "connection": "tmcoddstorage_STORAGE"
+    },
+    {
+      "type": "table",
+      "name": "myTable",
+      "tableName": "functionbindings",
+      "connection": "tmcoddstorage_STORAGE",
+      "direction": "out"
+    }
+  ],
+  "disabled": false
+}

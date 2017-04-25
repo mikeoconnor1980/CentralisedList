@@ -13,6 +13,7 @@ C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debu
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\CentralisedListClientRole\bin\de\Microsoft.Data.OData.resources.dll
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\CentralisedListClientRole\bin\de\Microsoft.Data.Services.Client.resources.dll
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\CentralisedListClientRole\bin\de\System.Spatial.resources.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\CentralisedListClientRole\bin\DocumentDB.Spatial.Sql.dll
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\CentralisedListClientRole\bin\es\Microsoft.Data.Edm.resources.dll
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\CentralisedListClientRole\bin\es\Microsoft.Data.OData.resources.dll
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\CentralisedListClientRole\bin\es\Microsoft.Data.Services.Client.resources.dll
@@ -35,6 +36,7 @@ C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debu
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\CentralisedListClientRole\bin\ko\System.Spatial.resources.dll
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\CentralisedListClientRole\bin\Microsoft.Azure.Documents.Client.dll
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\CentralisedListClientRole\bin\Microsoft.Azure.Documents.Client.xml
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\CentralisedListClientRole\bin\Microsoft.Azure.Documents.ServiceInterop.dll
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\CentralisedListClientRole\bin\Microsoft.Azure.KeyVault.Core.dll
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\CentralisedListClientRole\bin\Microsoft.Azure.KeyVault.Core.xml
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\CentralisedListClientRole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
@@ -102,10 +104,13 @@ C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debu
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\CentralisedListClientRole\bin\zh-Hant\Microsoft.Data.OData.resources.dll
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\CentralisedListClientRole\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\CentralisedListClientRole\bin\zh-Hant\System.Spatial.resources.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\ServiceBus.WorkerClient\CentralisedListObjects.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\ServiceBus.WorkerClient\CentralisedListObjects.pdb
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\ServiceBus.WorkerClient\de\Microsoft.Data.Edm.resources.dll
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\ServiceBus.WorkerClient\de\Microsoft.Data.OData.resources.dll
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\ServiceBus.WorkerClient\de\Microsoft.Data.Services.Client.resources.dll
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\ServiceBus.WorkerClient\de\System.Spatial.resources.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\ServiceBus.WorkerClient\DocumentDB.Spatial.Sql.dll
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\ServiceBus.WorkerClient\es\Microsoft.Data.Edm.resources.dll
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\ServiceBus.WorkerClient\es\Microsoft.Data.OData.resources.dll
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\ServiceBus.WorkerClient\es\Microsoft.Data.Services.Client.resources.dll
@@ -126,6 +131,8 @@ C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debu
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\ServiceBus.WorkerClient\ko\Microsoft.Data.OData.resources.dll
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\ServiceBus.WorkerClient\ko\Microsoft.Data.Services.Client.resources.dll
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\ServiceBus.WorkerClient\ko\System.Spatial.resources.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\ServiceBus.WorkerClient\Microsoft.Azure.Documents.Client.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\ServiceBus.WorkerClient\Microsoft.Azure.Documents.ServiceInterop.dll
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\ServiceBus.WorkerClient\Microsoft.Azure.KeyVault.Core.dll
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\ServiceBus.WorkerClient\Microsoft.Data.Edm.dll
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\ServiceBus.WorkerClient\Microsoft.Data.OData.dll
@@ -137,6 +144,10 @@ C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debu
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\ServiceBus.WorkerClient\Microsoft.WindowsAzure.Storage.pdb
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\ServiceBus.WorkerClient\MonAgentListener.dll
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\ServiceBus.WorkerClient\Newtonsoft.Json.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\ServiceBus.WorkerClient\ODD.Data.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\ServiceBus.WorkerClient\ODD.Data.pdb
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\ServiceBus.WorkerClient\ODD.Objects.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\ServiceBus.WorkerClient\ODD.Objects.pdb
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\ServiceBus.WorkerClient\ru\Microsoft.Data.Edm.resources.dll
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\ServiceBus.WorkerClient\ru\Microsoft.Data.OData.resources.dll
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\ServiceBus.WorkerClient\ru\Microsoft.Data.Services.Client.resources.dll
@@ -153,14 +164,3 @@ C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debu
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\ServiceBus.WorkerClient\zh-Hant\Microsoft.Data.OData.resources.dll
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\ServiceBus.WorkerClient\zh-Hant\Microsoft.Data.Services.Client.resources.dll
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\ServiceBus.WorkerClient\zh-Hant\System.Spatial.resources.dll
-C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\ServiceBus.WorkerClient\CentralisedListObjects.dll
-C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\ServiceBus.WorkerClient\CentralisedListObjects.pdb
-C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\ServiceBus.WorkerClient\ODD.Objects.dll
-C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\ServiceBus.WorkerClient\ODD.Objects.pdb
-C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\CentralisedListClientRole\bin\DocumentDB.Spatial.Sql.dll
-C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\CentralisedListClientRole\bin\Microsoft.Azure.Documents.ServiceInterop.dll
-C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\ServiceBus.WorkerClient\DocumentDB.Spatial.Sql.dll
-C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\ServiceBus.WorkerClient\Microsoft.Azure.Documents.Client.dll
-C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\ServiceBus.WorkerClient\Microsoft.Azure.Documents.ServiceInterop.dll
-C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\ServiceBus.WorkerClient\ODD.Data.dll
-C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\ServiceBus.WorkerClient\ODD.Data.pdb

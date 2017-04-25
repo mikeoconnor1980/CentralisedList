@@ -1,0 +1,7 @@
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListData\bin\Release\CentralisedListData.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListData\bin\Release\CentralisedListData.pdb
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListData\bin\Release\CentralisedListObjects.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListData\bin\Release\CentralisedListObjects.pdb
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListData\obj\Release\CentralisedListData.csprojResolveAssemblyReference.cache
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListData\obj\Release\CentralisedListData.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListData\obj\Release\CentralisedListData.pdb

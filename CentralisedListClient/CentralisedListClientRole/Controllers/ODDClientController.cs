@@ -6,23 +6,22 @@ using System.Web.Mvc;
 using ODD.Data;
 using System.Threading.Tasks;
 using ODD.Objects;
+using System.Configuration;
 
 namespace CentralisedListClientRole.Controllers
 {
     public class ODDClientController : Controller
-    {
-        private const string EndpointUri = "https://odd-dev.documents.azure.com:443/";
-        private const string PrimaryKey = "Kczj339CTusj9d4260FSZ9nUTrNsqFIJp7RBp5XECZ4SaFQfSvPYrW98J0Gxw8ISi86yAg1kVHPNq49sqTtvJg==";
-
+    {        
         // GET: ODDClient
         public async Task<ActionResult> Index()
         {
+            string EndpointUri = ConfigurationManager.AppSettings["DocumentDBEndpointUri"].ToString();
+            string PrimaryKey = ConfigurationManager.AppSettings["DocumentDBPrimaryKey"].ToString();
             ViewBag.SyncOrAsync = "Asynchronous";
-            DataCommand _dc = new DataCommand(EndpointUri, PrimaryKey, "odd_main_dev", "OddCollection_dev");
+            DataCommand _dc = new DataCommand(EndpointUri, PrimaryKey, "odd_main_dev");
             ClientData data = new ClientData(_dc, "clients");
             List<Client> clients = await data.Load();
 
-            
             return View(clients);
         }
 

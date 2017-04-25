@@ -27,13 +27,7 @@
       <Content destination=".\">
         <SourceDirectory path="C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\rcf\Debug\CentralisedListClientRoleContent\" />
       </Content>
-      <Content destination=".\">
-        <SourceDirectory path="C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\ecf\CentralisedListClientRoleContent\" />
-      </Content>
     </Contents>
-    <Imports>
-      <Import moduleName="Diagnostics" />
-    </Imports>
   </WebRole>
   <WorkerRole name="ServiceBus.WorkerClient" vmsize="Small">
     <ConfigurationSettings>
@@ -44,12 +38,6 @@
       <Content destination=".\">
         <SourceDirectory path="C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\rcf\Debug\ServiceBus.WorkerClientContent\" />
       </Content>
-      <Content destination=".\">
-        <SourceDirectory path="C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\ecf\ServiceBus.WorkerClientContent\" />
-      </Content>
     </Contents>
-    <Imports>
-      <Import moduleName="Diagnostics" />
-    </Imports>
   </WorkerRole>
 </ServiceDefinition>

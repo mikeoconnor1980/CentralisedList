@@ -47,7 +47,7 @@ namespace ODD.Data
 
         #endregion
 
-        #region Public Methods
+        #region Private Methods
         private void CreateCollectionIfNotExists()
         {
             try

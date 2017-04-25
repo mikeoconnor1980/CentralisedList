@@ -11,17 +11,15 @@ namespace ODD.Data
 
         public DocumentClient docclient { get; set; }
         public string databaseId { get; set; }
-        public string collectionId { get; set; }
 
         #endregion
 
-        public DataCommand(string EndpointUri, string PrimaryKey, string DatabaseId, string CollectionId)
+        public DataCommand(string EndpointUri, string PrimaryKey, string DatabaseId)
         {
             docclient = new DocumentClient(new Uri(EndpointUri), PrimaryKey);
             docclient.OpenAsync();
 
             databaseId = DatabaseId;
-            collectionId = CollectionId;
         }
     }
 }

@@ -149,6 +149,7 @@
     <Compile Include="DocumentDBClientSyncFn.cs" />
     <Content Include="ServiceBusTopicTriggerCLClient_1\function.json" />
     <Content Include="ServiceBusTopicTriggerCLClient_2\function.json" />
+    <Content Include="ServiceBusTopicTriggerCLClient_3\function.json" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

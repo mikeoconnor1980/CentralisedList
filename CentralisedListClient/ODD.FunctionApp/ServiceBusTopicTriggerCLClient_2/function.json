@@ -15,11 +15,11 @@
       "type": "documentDB",
       "name": "outputDocument",
       "databaseName": "odd_main_dev",
-      "collectionName": "clients2",
+      "collectionName": "clients3",
       "createIfNotExists": true,
       "connection": "odd-dev_DOCUMENTDB",
       "direction": "out"
     }
   ],
-  "disabled": true
+  "disabled": false
 }

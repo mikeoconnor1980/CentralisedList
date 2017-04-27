@@ -8,7 +8,7 @@
       "direction": "in",
       "queueName": "prototype-queue",
       "connection": "ServiceBusCentralisedListClient",
-      "accessRights": "Listen"
+      "accessRights": "manage"
     },
     {
       "type": "documentDB",
@@ -20,5 +20,5 @@
       "direction": "out"
     }
   ],
-  "disabled": false
+  "disabled": true
 }

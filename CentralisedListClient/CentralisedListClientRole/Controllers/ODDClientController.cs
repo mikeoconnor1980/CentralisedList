@@ -13,7 +13,7 @@ namespace CentralisedListClientRole.Controllers
     public class ODDClientController : Controller
     {        
         // GET: ODDClient
-        public async Task<ActionResult> Index()
+        public async Task<ActionResult> Product1()
         {
             string EndpointUri = ConfigurationManager.AppSettings["DocumentDBEndpointUri"].ToString();
             string PrimaryKey = ConfigurationManager.AppSettings["DocumentDBPrimaryKey"].ToString();
@@ -24,6 +24,20 @@ namespace CentralisedListClientRole.Controllers
 
             return View(clients);
         }
+
+        public async Task<ActionResult> Product2()
+        {
+            string EndpointUri = ConfigurationManager.AppSettings["DocumentDBEndpointUri"].ToString();
+            string PrimaryKey = ConfigurationManager.AppSettings["DocumentDBPrimaryKey"].ToString();
+            ViewBag.SyncOrAsync = "Asynchronous";
+            DataCommand _dc = new DataCommand(EndpointUri, PrimaryKey, "odd_main_dev");
+            ClientData data = new ClientData(_dc, "clients2");
+            List<Client> clients = await data.Load();
+
+            return View(clients);
+        }
+
+
 
         // GET: ODDClient/Details/5
         public ActionResult Details(int id)

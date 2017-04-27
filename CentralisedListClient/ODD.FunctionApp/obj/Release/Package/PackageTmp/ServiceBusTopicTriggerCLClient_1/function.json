@@ -5,10 +5,11 @@
     {
       "name": "message",
       "type": "serviceBusTrigger",
+      "topicName": "oddtopicclientlist",
+      "subscriptionName": "AllMessages",
       "direction": "in",
-      "queueName": "prototype-queue",
-      "connection": "ServiceBusCentralisedListClient",
-      "accessRights": "manage"
+      "connection": "ODDTopicConnection",
+      "accessRights": "manage"  
     },
     {
       "type": "documentDB",

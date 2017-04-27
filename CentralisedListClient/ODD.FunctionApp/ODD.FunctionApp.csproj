@@ -146,7 +146,9 @@
     <Content Include="host.json" />
     <None Include="Properties\PublishProfiles\ODDFunctionApp.pubxml" />
     <Content Include="ServiceBusQueueTriggerCentralisedListClient\function.json" />
-    <Compile Include="run.cs" />
+    <Compile Include="DocumentDBClientSyncFn.cs" />
+    <Content Include="ServiceBusTopicTriggerCLClient_1\function.json" />
+    <Content Include="ServiceBusTopicTriggerCLClient_2\function.json" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

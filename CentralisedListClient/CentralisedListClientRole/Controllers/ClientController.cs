@@ -133,7 +133,7 @@ namespace CentralisedListClientRole.Controllers
             Client client = cd.GetClient(id);
 
             TopicClientHelper topicClientHelper = new TopicClientHelper();
-            topicClientHelper.CreateTopicSubscription("ODDTopicClientList", "ODDTopicClientListSubscription");
+            //topicClientHelper.CreateTopicSubscription("ODDTopicClientList", "ODDTopicClientListSubscription");
 
             string message = JsonConvert.SerializeObject(client);
             string messageBasic = "{ \"id\" : \"" + client.id + "\", \"name\" : \"" + client.name + "\"}";

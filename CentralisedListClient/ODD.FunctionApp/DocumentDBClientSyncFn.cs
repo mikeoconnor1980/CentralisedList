@@ -12,7 +12,7 @@ namespace ODD.FunctionApps
         {
             try
             {
-                log.Info("Message2: " + message);
+                log.Info("Message EX: " + message);
                 dynamic client = JObject.Parse(message);
 
                 outputDocument = new Client

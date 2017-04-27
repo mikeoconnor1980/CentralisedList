@@ -15,7 +15,7 @@
       "type": "documentDB",
       "name": "outputDocument",
       "databaseName": "odd_main_dev",
-      "collectionName": "clients3",
+      "collectionName": "clients2",
       "createIfNotExists": true,
       "connection": "odd-dev_DOCUMENTDB",
       "direction": "out"

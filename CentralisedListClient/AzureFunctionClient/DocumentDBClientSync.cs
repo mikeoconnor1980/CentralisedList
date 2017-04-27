@@ -12,6 +12,8 @@ namespace ODDFunctionApps
         {
             dynamic client = JObject.Parse(message);
 
+            log.Info("Test");
+
             outputDocument = new Client
             {
                 id = client.id,

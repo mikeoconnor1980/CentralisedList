@@ -16,6 +16,7 @@ namespace ODDFunctionApps
             {
                 id = client.id,
                 name = client.name
+
             };
         }
     }

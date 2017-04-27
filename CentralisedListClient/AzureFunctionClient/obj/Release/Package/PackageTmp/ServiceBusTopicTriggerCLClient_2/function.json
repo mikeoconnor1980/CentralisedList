@@ -6,7 +6,7 @@
       "name": "message",
       "type": "serviceBusTrigger",
       "topicName": "oddtopicclientlist",
-      "subscriptionName": "AllMessages",
+      "subscriptionName": "AllMessages2",
       "direction": "in",
       "connection": "ODDTopicConnection",
       "accessRights": "manage"
@@ -15,11 +15,11 @@
       "type": "documentDB",
       "name": "outputDocument",
       "databaseName": "odd_main_dev",
-      "collectionName": "clients",
+      "collectionName": "clients2",
       "createIfNotExists": true,
       "connection": "odd-dev_DOCUMENTDB",
       "direction": "out"
     }
   ],
-  "disabled": true
+  "disabled": false
 }

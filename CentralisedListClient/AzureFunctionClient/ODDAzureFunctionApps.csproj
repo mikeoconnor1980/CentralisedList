@@ -146,7 +146,9 @@
     <Content Include="appsettings.json" />
     <None Include="Properties\PublishProfiles\AzureFunctionClient20170425033713.pubxml" />
     <Content Include="ServiceBusQueueTriggerCentralisedListClient\function.json" />
-    <Compile Include="run.cs" />
+    <Compile Include="DocumentDBClientSync.cs" />
+    <Content Include="ServiceBusTopicTriggerCLClient_1\function.json" />
+    <Content Include="ServiceBusTopicTriggerCLClient_2\function.json" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

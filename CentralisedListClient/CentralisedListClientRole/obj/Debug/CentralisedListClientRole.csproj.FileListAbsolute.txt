@@ -160,6 +160,7 @@ C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\System.Web.WebPages.Razor.xml
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\Antlr3.Runtime.pdb
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\Microsoft.Azure.Documents.Client.xml
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\Microsoft.ServiceBus.xml
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\de\Microsoft.Data.Edm.resources.dll
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\es\Microsoft.Data.Edm.resources.dll
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClientRole\bin\fr\Microsoft.Data.Edm.resources.dll

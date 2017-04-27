@@ -1,1 +1,7 @@
+C:\Projects\CentralisedList\CentralisedListClient\ServiceBus\ServiceBusLib\bin\Release\ServiceBusLib.dll
+C:\Projects\CentralisedList\CentralisedListClient\ServiceBus\ServiceBusLib\bin\Release\ServiceBusLib.pdb
+C:\Projects\CentralisedList\CentralisedListClient\ServiceBus\ServiceBusLib\bin\Release\Microsoft.ServiceBus.dll
+C:\Projects\CentralisedList\CentralisedListClient\ServiceBus\ServiceBusLib\bin\Release\Microsoft.ServiceBus.xml
 C:\Projects\CentralisedList\CentralisedListClient\ServiceBus\ServiceBusLib\obj\Release\ServiceBus.Lib.csprojResolveAssemblyReference.cache
+C:\Projects\CentralisedList\CentralisedListClient\ServiceBus\ServiceBusLib\obj\Release\ServiceBusLib.dll
+C:\Projects\CentralisedList\CentralisedListClient\ServiceBus\ServiceBusLib\obj\Release\ServiceBusLib.pdb

@@ -39,7 +39,9 @@
             
             @if (item.is_dirty == true)
             {
-                @Html.ActionLink("| Send to Service Bus", "SubmitToServiceBus", new { id = item.id })
+                @Html.ActionLink("| Send to Queue", "SubmitToServiceBus", new { id = item.id })
+                
+                @Html.ActionLink("| Send to Topic", "SubmitToServiceBusTopic", new { id = item.id })
             }
             
         </td>
@@ -50,5 +52,7 @@
 
 <br/>
 
-
-<p>Service Bus Queue: @ViewBag.MessageCount</p>
+<br />
+<b>Service Bus Queue</b>
+<p>Active Message Count: @ViewBag.ActiveMessageCount</p>
+<p>Dead Message Count: @ViewBag.DeadMessageCount</p>

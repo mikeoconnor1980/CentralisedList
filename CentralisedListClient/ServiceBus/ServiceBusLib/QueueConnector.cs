@@ -6,25 +6,21 @@ namespace ServiceBus.Lib
 {
     public static class QueueConnector
     {
-        // Thread-safe. Recommended that you cache rather than recreating it
-        // on every request.
+        // cache rather than recreating it
         public static QueueClient OrdersQueueClient;
-
-        // Obtain these values from the portal.
-        public const string Namespace = "odd-service-bus-prototype";
-
-        // The name of your queue.
-        public const string QueueName = "prototype-queue";
+        public const string Namespace = "ODDNameSpaceStd";
+        public const string QueueName = "ODDTopicClientList";
+        public const string _connectionstring = "Endpoint=sb://oddnamespacestd.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=O3GbnJ6BuXuPgJGiGX4PuWdZgzDc2NMsxbp04br/WwY=";
 
         public static NamespaceManager CreateNamespaceManager()
         {
             // Create the namespace manager which gives you access to
             // management operations.
-            var uri = ServiceBusEnvironment.CreateServiceUri(
-                "sb", Namespace, String.Empty);
-            var tP = TokenProvider.CreateSharedAccessSignatureTokenProvider(
-                "RootManageSharedAccessKey", "VA0TuMZkMRKaQPsxYHGaLSKYmRPvT+L9ZcBNxcfT7Mw=");
-            return new NamespaceManager(uri, tP);
+            return NamespaceManager.CreateFromConnectionString(_connectionstring);
+
+            //var uri = ServiceBusEnvironment.CreateServiceUri("sb", Namespace, String.Empty);
+            //var tP = TokenProvider.CreateSharedAccessSignatureTokenProvider("RootManageSharedAccessKey", "O3GbnJ6BuXuPgJGiGX4PuWdZgzDc2NMsxbp04br/WwY=");
+            //return new NamespaceManager(uri, tP);
         }
 
         public static void Initialize()

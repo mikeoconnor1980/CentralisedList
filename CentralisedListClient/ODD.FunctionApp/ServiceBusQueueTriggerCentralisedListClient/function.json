@@ -1,0 +1,24 @@
+{
+  "scriptFile": "..\\bin\\ODD.FunctionApp.dll",
+  "entryPoint": "ODD.FunctionApps.DocumentDBClientSyncFn.Run",
+  "bindings": [
+    {
+      "name": "message",
+      "type": "serviceBusTrigger",
+      "direction": "in",
+      "queueName": "prototype-queue",
+      "connection": "ServiceBusCentralisedListClient",
+      "accessRights": "Listen"
+    },
+    {
+      "type": "documentDB",
+      "name": "outputDocument",
+      "databaseName": "odd_main_dev",
+      "collectionName": "clients",
+      "createIfNotExists": true,
+      "connection": "odd-dev_DOCUMENTDB",
+      "direction": "out"
+    }
+  ],
+  "disabled": true
+}

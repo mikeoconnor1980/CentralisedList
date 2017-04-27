@@ -48,6 +48,7 @@ C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debu
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\CentralisedListClientRole\bin\Microsoft.Data.Services.Client.dll
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\CentralisedListClientRole\bin\Microsoft.Data.Services.Client.xml
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\CentralisedListClientRole\bin\Microsoft.ServiceBus.dll
+C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\CentralisedListClientRole\bin\Microsoft.ServiceBus.xml
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\CentralisedListClientRole\bin\Microsoft.Web.Infrastructure.dll
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\CentralisedListClientRole\bin\Microsoft.WindowsAzure.Diagnostics.dll
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListClient\obj\Debug\CentralisedListClientRole\bin\Microsoft.WindowsAzure.ServiceRuntime.dll

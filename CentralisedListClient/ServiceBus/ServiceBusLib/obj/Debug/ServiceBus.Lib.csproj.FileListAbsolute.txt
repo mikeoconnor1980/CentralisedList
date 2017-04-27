@@ -7,6 +7,8 @@ C:\Projects\CentralisedList\CentralisedListClient\ServiceBusLib\bin\Debug\Micros
 C:\Projects\CentralisedList\CentralisedListClient\ServiceBusLib\bin\Debug\Microsoft.ServiceBus.xml
 C:\Projects\CentralisedList\CentralisedListClient\ServiceBus\ServiceBusLib\bin\Debug\ServiceBusLib.dll
 C:\Projects\CentralisedList\CentralisedListClient\ServiceBus\ServiceBusLib\bin\Debug\ServiceBusLib.pdb
+C:\Projects\CentralisedList\CentralisedListClient\ServiceBus\ServiceBusLib\bin\Debug\Microsoft.ServiceBus.dll
+C:\Projects\CentralisedList\CentralisedListClient\ServiceBus\ServiceBusLib\bin\Debug\Microsoft.ServiceBus.xml
+C:\Projects\CentralisedList\CentralisedListClient\ServiceBus\ServiceBusLib\obj\Debug\ServiceBus.Lib.csprojResolveAssemblyReference.cache
 C:\Projects\CentralisedList\CentralisedListClient\ServiceBus\ServiceBusLib\obj\Debug\ServiceBusLib.dll
 C:\Projects\CentralisedList\CentralisedListClient\ServiceBus\ServiceBusLib\obj\Debug\ServiceBusLib.pdb
-C:\Projects\CentralisedList\CentralisedListClient\ServiceBus\ServiceBusLib\obj\Debug\ServiceBus.Lib.csprojResolveAssemblyReference.cache

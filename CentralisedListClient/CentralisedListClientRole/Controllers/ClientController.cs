@@ -20,8 +20,9 @@ namespace CentralisedListClientRole.Controllers
             ClientData cd = new ClientData(connectionstring);
             List<Client> clients = cd.Load();
 
-            QueueClientHelper qc = new QueueClientHelper();
-            ViewBag.MessageCount = qc.MessageCount();
+            TopicClientHelper qc = new TopicClientHelper();
+            ViewBag.ActiveMessageCount = qc.ActiveMessageCount();
+            ViewBag.DeadMessageCount = qc.DeadMessageCount();
 
             return View(clients);
         }
@@ -98,8 +99,6 @@ namespace CentralisedListClientRole.Controllers
         {
             try
             {
-                // TODO: Add delete logic here
-
                 return RedirectToAction("Index");
             }
             catch
@@ -121,6 +120,25 @@ namespace CentralisedListClientRole.Controllers
             string messageBasic = "{ \"id\" : \"" + client.id + "\", \"name\" : \"" + client.name + "\"}";
 
             queueClientHelper.SendMessage(messageBasic);
+
+            cd.ResetDirtyFlag(id);
+
+            return RedirectToAction("Index");
+        }
+
+        public ActionResult SubmitToServiceBusTopic(string id)
+        {
+            string connectionstring = ConfigurationManager.ConnectionStrings["ClientConnection"].ConnectionString;
+            ClientData cd = new ClientData(connectionstring);
+            Client client = cd.GetClient(id);
+
+            TopicClientHelper topicClientHelper = new TopicClientHelper();
+            topicClientHelper.CreateTopicSubscription("ODDTopicClientList", "ODDTopicClientListSubscription");
+
+            string message = JsonConvert.SerializeObject(client);
+            string messageBasic = "{ \"id\" : \"" + client.id + "\", \"name\" : \"" + client.name + "\"}";
+
+            topicClientHelper.SendMessage(messageBasic);
 
             cd.ResetDirtyFlag(id);
 

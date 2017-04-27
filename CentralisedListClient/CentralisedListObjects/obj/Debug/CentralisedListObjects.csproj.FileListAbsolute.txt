@@ -5,6 +5,5 @@ C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\Central
 C:\Users\mdoconnor\Documents\Visual Studio 2015\Projects\CentralisedList\CentralisedListClient\CentralisedListObjects\obj\Debug\CentralisedListObjects.pdb
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListObjects\bin\Debug\CentralisedListObjects.dll
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListObjects\bin\Debug\CentralisedListObjects.pdb
-C:\Projects\CentralisedList\CentralisedListClient\CentralisedListObjects\obj\Debug\CentralisedListObjects.csprojResolveAssemblyReference.cache
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListObjects\obj\Debug\CentralisedListObjects.dll
 C:\Projects\CentralisedList\CentralisedListClient\CentralisedListObjects\obj\Debug\CentralisedListObjects.pdb

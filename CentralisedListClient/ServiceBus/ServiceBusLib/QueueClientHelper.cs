@@ -1,4 +1,5 @@
-﻿using Microsoft.ServiceBus.Messaging;
+﻿using Microsoft.ServiceBus;
+using Microsoft.ServiceBus.Messaging;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,18 +11,20 @@ namespace ServiceBus.Lib
 {
     public class QueueClientHelper
     {
+        NamespaceManager _namespacemanager;
         public QueueClientHelper()
         {
-
+            _namespacemanager = QueueConnector.CreateNamespaceManager();
         }
 
-        public long MessageCount()
+        public long ActiveMessageCount()
         {
-            var namespaceManager = QueueConnector.CreateNamespaceManager();
+            return _namespacemanager.GetQueue(QueueConnector.QueueName).MessageCountDetails.ActiveMessageCount;
+        }
 
-            // Get the queue, and obtain the message count.
-            var queue = namespaceManager.GetQueue(QueueConnector.QueueName);
-            return queue.MessageCount;
+        public long DeadMessageCount()
+        {
+            return _namespacemanager.GetQueue(QueueConnector.QueueName).MessageCountDetails.DeadLetterMessageCount;
         }
 
         public void SendMessage(object messageItem)
@@ -29,9 +32,5 @@ namespace ServiceBus.Lib
             var message = new BrokeredMessage(messageItem);
             QueueConnector.OrdersQueueClient.Send(message);
         }
-
-        
-        
-
     }
 }

@@ -33,7 +33,8 @@ namespace CentralisedListClientRole.Controllers
         public ActionResult Submit()
         {
             QueueClientHelper qc = new QueueClientHelper();
-            ViewBag.MessageCount = qc.MessageCount();
+            ViewBag.ActiveMessageCount = qc.ActiveMessageCount();
+            ViewBag.DeadMessageCount = qc.DeadMessageCount();
 
             return View();
             // Get a NamespaceManager which allows you to perform management and
